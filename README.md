@@ -37,7 +37,18 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here (login screen, ride offer/take screen, map view, etc.) to give users a visual overview._
+Here are some UI previews from **Coryd**:
+
+| Screen | Description |
+|--------|-------------|
+| ![Welcome Page](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/welcomepage.jpg) | 🟢 **Login Page** – User enters mobile number and selects country code. |
+| ![Register Page](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/registerpage.jpg) | 📝 **Register Page** –User Enters his Details for Registration. |
+| ![OTP Verify](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/otpverify.jpg) | 🔐 **OTP Verification** – Secure login using Firebase phone authentication. |
+| ![Home Screen](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/ridehomescreen.jpg) | 🏠 **Home Screen** – Navigate between offering rides, taking rides, or deliveries. |
+| ![Offer Ride](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/offeringrides.jpg) | 🚘 **Offering a Ride** – Enter source, destination, select vehicle type, seats, and date. |
+| ![Search Rides](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/searchforrides.jpg) | 🔍 **Searching for Rides** – Select route, date, time, and vehicle to find available rides. |
+| ![Confirm Ride](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/confirmingrides.jpg) | ✅  **Confirm Ride Page** – View available vehicles on the map with fare options and confirm your ride. |
+| ![Delivery Page](https://github.com/21MH1A0579/frontenfforcoryd/blob/master/images/corydimgs/deliverhomepage.jpg) | 📦 **Delivery Page** – Send packages through riders traveling the same route. |
 
 ---
 
